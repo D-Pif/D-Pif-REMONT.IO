@@ -11,7 +11,7 @@
 Для запроса картинки с ремонтом квартиры с панорамным видом можно использовать следующие параметры:
 
 - Запрос: Wood modern house, big windows, high front door, blocky design, house on the meadow, whole house in view, interior lit. --ar 3:2 -
-- Файл: [task_2.jpg](file:task_2.jpg)
+- Файл: [task_2.jpg](task_2.jpg)
 
 ### Task 3:
 **Скрипт транскрибации аудио/видео**
