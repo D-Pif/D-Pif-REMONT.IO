@@ -16,7 +16,7 @@
 ### Task 3:
 **Скрипт транскрибации аудио/видео**
 
-[transcribator.py](file:speech-to-text/transcriber.py)
+[transcribator.py](speech-to-text/transcriber.py)
 
 ### Task 4:
 **Инструменты ИИ для создания видео**
