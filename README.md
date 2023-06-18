@@ -4,18 +4,20 @@
 📝 [Ссылка](https://chat.openai.com/share/5a64e442-277d-4c7e-97be-8127b9aef578) на пример процесса написания [статьи](gpt_article.md) через chatGPT
 
 ---
+<br>
 
 ### Task 2: 
 <strong>Запрос картинки в Midjourney</strong> 📷
 
-Для запроса картинки с ремонтом квартиры с панорамным видом можно использовать следующие параметры:
 
-- Promt:
---ar 3:2 -
-Wood modern house, big windows, high front door, blocky design, house on the meadow, whole house in view, interior lit.
+- Promt:<br>
+--ar 3:2 - Wood modern house, big windows,<br>
+high front door, blocky design, house on the meadow,<br>
+whole house in view, interior lit.
 <img src="task_2.jpg" alt="Ремонт квартиры с панорманым видом" height="200">
 
 ---
+<br>
 
 ### Task 3:
 <strong>Скрипт транскрибации аудио/видео</strong> 🔊🎥
@@ -23,6 +25,7 @@ Wood modern house, big windows, high front door, blocky design, house on the mea
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Text-x-python.svg/1024px-Text-x-python.svg.png" alt="transcribator.py" height="20"> transcribator.py](speech-to-text/transcriber.py)
 
 ---
+<br>
 
 ### Task 4:
 **Инструменты ИИ для создания видео** 🎥🤖
@@ -41,6 +44,7 @@ Wood modern house, big windows, high front door, blocky design, house on the mea
 5. **[<img src="https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:860/h:214/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png" alt="PictoryAI" height="40">](https://pictory.ai/)** Это инструмент, который использует искусственный интеллект для создания видеороликов на основе фотографий и видеозаписей. Он обладает функциями автоматической обработки, фильтрации и редактирования материалов, а также предлагает различные стили и эффекты для создания впечатляющих видео.
 
 ---
+<br>
 
 ### Task 5:
 **Лингвистические модели для бизнеса** 😊
