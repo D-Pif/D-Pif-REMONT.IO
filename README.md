@@ -8,8 +8,10 @@
 
 Для запроса картинки с ремонтом квартиры с панорамным видом можно использовать следующие параметры:
 
-- Запрос: Wood modern house, big windows, high front door, blocky design, house on the meadow, whole house in view, interior lit. --ar 3:2 -
-<img src="task_2.jpg" alt="Ремонт квартиры с панорманым видом" height="300">
+- Promt:
+--ar 3:2 -
+Wood modern house, big windows, high front door, blocky design, house on the meadow, whole house in view, interior lit.
+<img src="task_2.jpg" alt="Ремонт квартиры с панорманым видом" height="200">
 
 ### Task 3:
 <strong>Скрипт транскрибации аудио/видео</strong> 🔊🎥
